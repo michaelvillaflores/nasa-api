@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 700;
+    font-style: italic; 
+    color: yellowgreen;
+}
+p {
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 300;
+    font-style: normal; 
+}
+.label {
+    color: yellowgreen;
+    font-weight: bold;
+}
